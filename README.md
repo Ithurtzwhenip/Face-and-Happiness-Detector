@@ -1,4 +1,4 @@
-# Face and Happiness Detection
+# Face and Smile Detection
 
 This project combines two facial recognition applications: one for detecting faces and eyes, and the other for detecting happiness by identifying smiles. The implementation is based on the OpenCV library in Python.
 
