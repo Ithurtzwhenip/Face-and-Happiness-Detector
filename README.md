@@ -21,7 +21,7 @@ pip install opencv-python
 
 ```bash
 git clone https://github.com/your-username/face-and-happiness-detector.git
-cd face-and-happiness-detector
+cd face-and-smile-detector
 ```
 
 2. Download the required Haar cascades:
