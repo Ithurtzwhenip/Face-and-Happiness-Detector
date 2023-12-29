@@ -20,8 +20,8 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/face-and-happiness-detection.git
-cd face-and-happiness-detection
+git clone https://github.com/your-username/face-and-happiness-detector.git
+cd face-and-happiness-detector
 ```
 
 2. Download the required Haar cascades:
@@ -35,21 +35,21 @@ cd face-and-happiness-detection
 3. Run the face and eye detection:
 
 ```bash
-python face_detection.py
+python face-detection.py
 ```
 
 4. Run the happiness detection:
 
 ```bash
-python happiness_detection.py
+python smile_detector.py
 ```
 
 Press 'q' to exit the video stream.
 
 ## Explanation
 
-- `face_detection.py`: Detects faces and eyes using Haar cascades.
-- `happiness_detection.py`: Extends face detection to identify smiles.
+- `face-detection.py`: Detects faces and eyes using Haar cascades.
+- `smile-detector.py`: Extends face detection to identify smiles.
 
 The Haar cascades used for face, eye, and smile detection are included in the OpenCV library.
 
