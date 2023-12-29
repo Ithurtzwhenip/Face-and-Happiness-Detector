@@ -20,7 +20,7 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Face-and-Smile-detector.git
+git clone https://github.com/ithurtzwhenip/Face-and-Smile-detector.git
 cd Face-and-Smile-detector
 ```
 
