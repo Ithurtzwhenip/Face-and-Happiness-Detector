@@ -20,8 +20,8 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/face-and-happiness-detector.git
-cd face-and-smile-detector
+git clone https://github.com/your-username/Face-and-Smile-detector.git
+cd Face-and-Smile-detector
 ```
 
 2. Download the required Haar cascades:
