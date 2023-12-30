@@ -23,7 +23,7 @@ def detect(gray, frame):
             cv2.rectangle(roi_color, (sx, sy), (sx + sw, sy + sh), (0, 255, 0), 2)
     return frame
 
-#Doing face recognition Face Recognition with the cam
+#Doing Face Recognition with the cam
 video_capture = cv2.VideoCapture(0)
 while True:
     _, frame = video_capture.read()
